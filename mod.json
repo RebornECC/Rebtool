@@ -1,0 +1,11 @@
+{
+  "geode": "v5.11.1",
+  "gd": {
+    "android": "2.208"
+  },
+  "id": "autobuilder.gd",
+  "name": "Auto Builder",
+  "version": "v0.1.0",
+  "developer": "AutoBuilder",
+  "description": "Android level layout generator prototype for Geometry Dash."
+}
